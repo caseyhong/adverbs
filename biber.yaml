@@ -1,0 +1,57 @@
+certainty_adverbials:
+  - absolutely
+  - actually
+  - certainly
+  - clearly
+  - plainly
+  - definitely
+  - evidently
+  - indeed
+  - obviously
+  - really
+  - surely
+  - undoubtedly
+  - unquestionably
+  - for certain
+  - for sure
+  - of course
+
+uncertainty_adverbials:
+  - allegedly
+  - apparently
+  - arguably
+  - conceivably
+  - inexplicably
+  - likely
+  - maybe
+  - perhaps
+  - possibly
+  - potentially
+  - presumably
+  - probably
+  - reportedly
+  - seemingly
+  - supposedly
+
+uncertainty_hedges:
+  - quite
+  - sort of
+  - kind of
+  - might
+  - a bit
+  - a little bit
+  - just
+  - at least
+  - approximately
+  - about
+  - around
+  - somethiing like
+  - almost
+  - pretty
+  - sometimes
+
+uncertainty_modals:
+  - may
+  - might
+  - can
+  - could
